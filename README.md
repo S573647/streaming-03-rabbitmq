@@ -80,7 +80,7 @@ pip list
 ```
 
 ![verifying setup](./images/verifying.png)
-
+![alt text](./images/Kp_Verification.png)
 
 ## Task 5. Read
 
